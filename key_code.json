@@ -1,0 +1,1388 @@
+{
+    "Hyper": {
+        "USB": 16,
+        "evdev": 0,
+        "XKB": 0,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "Super": {
+        "USB": 17,
+        "evdev": 0,
+        "XKB": 0,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "Fn": {
+        "USB": 18,
+        "evdev": 0,
+        "XKB": 0,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "FnLock": {
+        "USB": 19,
+        "evdev": 0,
+        "XKB": 0,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "Suspend": {
+        "USB": 20,
+        "evdev": 0,
+        "XKB": 0,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "Resume": {
+        "USB": 21,
+        "evdev": 0,
+        "XKB": 0,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "Turbo": {
+        "USB": 22,
+        "evdev": 0,
+        "XKB": 0,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "PrivacyScreenToggle": {
+        "USB": 23,
+        "evdev": 633,
+        "XKB": 641,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "Sleep": {
+        "USB": 65666,
+        "evdev": 142,
+        "XKB": 150,
+        "Win": 57439,
+        "Mac": 65535
+    },
+    "WakeUp": {
+        "USB": 65667,
+        "evdev": 143,
+        "XKB": 151,
+        "Win": 57443,
+        "Mac": 65535
+    },
+    "DisplayToggleIntExt": {
+        "USB": 65717,
+        "evdev": 227,
+        "XKB": 235,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "KeyA": {
+        "USB": 458756,
+        "evdev": 30,
+        "XKB": 38,
+        "Win": 30,
+        "Mac": 0
+    },
+    "KeyB": {
+        "USB": 458757,
+        "evdev": 48,
+        "XKB": 56,
+        "Win": 48,
+        "Mac": 11
+    },
+    "KeyC": {
+        "USB": 458758,
+        "evdev": 46,
+        "XKB": 54,
+        "Win": 46,
+        "Mac": 8
+    },
+    "KeyD": {
+        "USB": 458759,
+        "evdev": 32,
+        "XKB": 40,
+        "Win": 32,
+        "Mac": 2
+    },
+    "KeyE": {
+        "USB": 458760,
+        "evdev": 18,
+        "XKB": 26,
+        "Win": 18,
+        "Mac": 14
+    },
+    "KeyF": {
+        "USB": 458761,
+        "evdev": 33,
+        "XKB": 41,
+        "Win": 33,
+        "Mac": 3
+    },
+    "KeyG": {
+        "USB": 458762,
+        "evdev": 34,
+        "XKB": 42,
+        "Win": 34,
+        "Mac": 5
+    },
+    "KeyH": {
+        "USB": 458763,
+        "evdev": 35,
+        "XKB": 43,
+        "Win": 35,
+        "Mac": 4
+    },
+    "KeyI": {
+        "USB": 458764,
+        "evdev": 23,
+        "XKB": 31,
+        "Win": 23,
+        "Mac": 34
+    },
+    "KeyJ": {
+        "USB": 458765,
+        "evdev": 36,
+        "XKB": 44,
+        "Win": 36,
+        "Mac": 38
+    },
+    "KeyK": {
+        "USB": 458766,
+        "evdev": 37,
+        "XKB": 45,
+        "Win": 37,
+        "Mac": 40
+    },
+    "KeyL": {
+        "USB": 458767,
+        "evdev": 38,
+        "XKB": 46,
+        "Win": 38,
+        "Mac": 37
+    },
+    "KeyM": {
+        "USB": 458768,
+        "evdev": 50,
+        "XKB": 58,
+        "Win": 50,
+        "Mac": 46
+    },
+    "KeyN": {
+        "USB": 458769,
+        "evdev": 49,
+        "XKB": 57,
+        "Win": 49,
+        "Mac": 45
+    },
+    "KeyO": {
+        "USB": 458770,
+        "evdev": 24,
+        "XKB": 32,
+        "Win": 24,
+        "Mac": 31
+    },
+    "KeyP": {
+        "USB": 458771,
+        "evdev": 25,
+        "XKB": 33,
+        "Win": 25,
+        "Mac": 35
+    },
+    "KeyQ": {
+        "USB": 458772,
+        "evdev": 16,
+        "XKB": 24,
+        "Win": 16,
+        "Mac": 12
+    },
+    "KeyR": {
+        "USB": 458773,
+        "evdev": 19,
+        "XKB": 27,
+        "Win": 19,
+        "Mac": 15
+    },
+    "KeyS": {
+        "USB": 458774,
+        "evdev": 31,
+        "XKB": 39,
+        "Win": 31,
+        "Mac": 1
+    },
+    "KeyT": {
+        "USB": 458775,
+        "evdev": 20,
+        "XKB": 28,
+        "Win": 20,
+        "Mac": 17
+    },
+    "KeyU": {
+        "USB": 458776,
+        "evdev": 22,
+        "XKB": 30,
+        "Win": 22,
+        "Mac": 32
+    },
+    "KeyV": {
+        "USB": 458777,
+        "evdev": 47,
+        "XKB": 55,
+        "Win": 47,
+        "Mac": 9
+    },
+    "KeyW": {
+        "USB": 458778,
+        "evdev": 17,
+        "XKB": 25,
+        "Win": 17,
+        "Mac": 13
+    },
+    "KeyX": {
+        "USB": 458779,
+        "evdev": 45,
+        "XKB": 53,
+        "Win": 45,
+        "Mac": 7
+    },
+    "KeyY": {
+        "USB": 458780,
+        "evdev": 21,
+        "XKB": 29,
+        "Win": 21,
+        "Mac": 16
+    },
+    "KeyZ": {
+        "USB": 458781,
+        "evdev": 44,
+        "XKB": 52,
+        "Win": 44,
+        "Mac": 6
+    },
+    "Digit1": {
+        "USB": 458782,
+        "evdev": 2,
+        "XKB": 10,
+        "Win": 2,
+        "Mac": 18
+    },
+    "Digit2": {
+        "USB": 458783,
+        "evdev": 3,
+        "XKB": 11,
+        "Win": 3,
+        "Mac": 19
+    },
+    "Digit3": {
+        "USB": 458784,
+        "evdev": 4,
+        "XKB": 12,
+        "Win": 4,
+        "Mac": 20
+    },
+    "Digit4": {
+        "USB": 458785,
+        "evdev": 5,
+        "XKB": 13,
+        "Win": 5,
+        "Mac": 21
+    },
+    "Digit5": {
+        "USB": 458786,
+        "evdev": 6,
+        "XKB": 14,
+        "Win": 6,
+        "Mac": 23
+    },
+    "Digit6": {
+        "USB": 458787,
+        "evdev": 7,
+        "XKB": 15,
+        "Win": 7,
+        "Mac": 22
+    },
+    "Digit7": {
+        "USB": 458788,
+        "evdev": 8,
+        "XKB": 16,
+        "Win": 8,
+        "Mac": 26
+    },
+    "Digit8": {
+        "USB": 458789,
+        "evdev": 9,
+        "XKB": 17,
+        "Win": 9,
+        "Mac": 28
+    },
+    "Digit9": {
+        "USB": 458790,
+        "evdev": 10,
+        "XKB": 18,
+        "Win": 10,
+        "Mac": 25
+    },
+    "Digit0": {
+        "USB": 458791,
+        "evdev": 11,
+        "XKB": 19,
+        "Win": 11,
+        "Mac": 29
+    },
+    "Enter": {
+        "USB": 458792,
+        "evdev": 28,
+        "XKB": 36,
+        "Win": 28,
+        "Mac": 36
+    },
+    "Escape": {
+        "USB": 458793,
+        "evdev": 1,
+        "XKB": 9,
+        "Win": 1,
+        "Mac": 53
+    },
+    "Backspace": {
+        "USB": 458794,
+        "evdev": 14,
+        "XKB": 22,
+        "Win": 14,
+        "Mac": 51
+    },
+    "Tab": {
+        "USB": 458795,
+        "evdev": 15,
+        "XKB": 23,
+        "Win": 15,
+        "Mac": 48
+    },
+    "Space": {
+        "USB": 458796,
+        "evdev": 57,
+        "XKB": 65,
+        "Win": 57,
+        "Mac": 49
+    },
+    "Minus": {
+        "USB": 458797,
+        "evdev": 12,
+        "XKB": 20,
+        "Win": 12,
+        "Mac": 27
+    },
+    "Equal": {
+        "USB": 458798,
+        "evdev": 13,
+        "XKB": 21,
+        "Win": 13,
+        "Mac": 24
+    },
+    "BracketLeft": {
+        "USB": 458799,
+        "evdev": 26,
+        "XKB": 34,
+        "Win": 26,
+        "Mac": 33
+    },
+    "BracketRight": {
+        "USB": 458800,
+        "evdev": 27,
+        "XKB": 35,
+        "Win": 27,
+        "Mac": 30
+    },
+    "Backslash": {
+        "USB": 458801,
+        "evdev": 43,
+        "XKB": 51,
+        "Win": 43,
+        "Mac": 42
+    },
+    "Semicolon": {
+        "USB": 458803,
+        "evdev": 39,
+        "XKB": 47,
+        "Win": 39,
+        "Mac": 41
+    },
+    "Quote": {
+        "USB": 458804,
+        "evdev": 40,
+        "XKB": 48,
+        "Win": 40,
+        "Mac": 39
+    },
+    "Backquote": {
+        "USB": 458805,
+        "evdev": 41,
+        "XKB": 49,
+        "Win": 41,
+        "Mac": 50
+    },
+    "Comma": {
+        "USB": 458806,
+        "evdev": 51,
+        "XKB": 59,
+        "Win": 51,
+        "Mac": 43
+    },
+    "Period": {
+        "USB": 458807,
+        "evdev": 52,
+        "XKB": 60,
+        "Win": 52,
+        "Mac": 47
+    },
+    "Slash": {
+        "USB": 458808,
+        "evdev": 53,
+        "XKB": 61,
+        "Win": 53,
+        "Mac": 44
+    },
+    "CapsLock": {
+        "USB": 458809,
+        "evdev": 58,
+        "XKB": 66,
+        "Win": 58,
+        "Mac": 57
+    },
+    "F1": {
+        "USB": 458810,
+        "evdev": 59,
+        "XKB": 67,
+        "Win": 59,
+        "Mac": 122
+    },
+    "F2": {
+        "USB": 458811,
+        "evdev": 60,
+        "XKB": 68,
+        "Win": 60,
+        "Mac": 120
+    },
+    "F3": {
+        "USB": 458812,
+        "evdev": 61,
+        "XKB": 69,
+        "Win": 61,
+        "Mac": 99
+    },
+    "F4": {
+        "USB": 458813,
+        "evdev": 62,
+        "XKB": 70,
+        "Win": 62,
+        "Mac": 118
+    },
+    "F5": {
+        "USB": 458814,
+        "evdev": 63,
+        "XKB": 71,
+        "Win": 63,
+        "Mac": 96
+    },
+    "F6": {
+        "USB": 458815,
+        "evdev": 64,
+        "XKB": 72,
+        "Win": 64,
+        "Mac": 97
+    },
+    "F7": {
+        "USB": 458816,
+        "evdev": 65,
+        "XKB": 73,
+        "Win": 65,
+        "Mac": 98
+    },
+    "F8": {
+        "USB": 458817,
+        "evdev": 66,
+        "XKB": 74,
+        "Win": 66,
+        "Mac": 100
+    },
+    "F9": {
+        "USB": 458818,
+        "evdev": 67,
+        "XKB": 75,
+        "Win": 67,
+        "Mac": 101
+    },
+    "F10": {
+        "USB": 458819,
+        "evdev": 68,
+        "XKB": 76,
+        "Win": 68,
+        "Mac": 109
+    },
+    "F11": {
+        "USB": 458820,
+        "evdev": 87,
+        "XKB": 95,
+        "Win": 87,
+        "Mac": 103
+    },
+    "F12": {
+        "USB": 458821,
+        "evdev": 88,
+        "XKB": 96,
+        "Win": 88,
+        "Mac": 111
+    },
+    "PrintScreen": {
+        "USB": 458822,
+        "evdev": 99,
+        "XKB": 107,
+        "Win": 57399,
+        "Mac": 65535
+    },
+    "ScrollLock": {
+        "USB": 458823,
+        "evdev": 70,
+        "XKB": 78,
+        "Win": 70,
+        "Mac": 65535
+    },
+    "Pause": {
+        "USB": 458824,
+        "evdev": 119,
+        "XKB": 127,
+        "Win": 69,
+        "Mac": 65535
+    },
+    "Insert": {
+        "USB": 458825,
+        "evdev": 110,
+        "XKB": 118,
+        "Win": 57426,
+        "Mac": 114
+    },
+    "Home": {
+        "USB": 458826,
+        "evdev": 102,
+        "XKB": 110,
+        "Win": 57415,
+        "Mac": 115
+    },
+    "PageUp": {
+        "USB": 458827,
+        "evdev": 104,
+        "XKB": 112,
+        "Win": 57417,
+        "Mac": 116
+    },
+    "Delete": {
+        "USB": 458828,
+        "evdev": 111,
+        "XKB": 119,
+        "Win": 57427,
+        "Mac": 117
+    },
+    "End": {
+        "USB": 458829,
+        "evdev": 107,
+        "XKB": 115,
+        "Win": 57423,
+        "Mac": 119
+    },
+    "PageDown": {
+        "USB": 458830,
+        "evdev": 109,
+        "XKB": 117,
+        "Win": 57425,
+        "Mac": 121
+    },
+    "ArrowRight": {
+        "USB": 458831,
+        "evdev": 106,
+        "XKB": 114,
+        "Win": 57421,
+        "Mac": 124
+    },
+    "ArrowLeft": {
+        "USB": 458832,
+        "evdev": 105,
+        "XKB": 113,
+        "Win": 57419,
+        "Mac": 123
+    },
+    "ArrowDown": {
+        "USB": 458833,
+        "evdev": 108,
+        "XKB": 116,
+        "Win": 57424,
+        "Mac": 125
+    },
+    "ArrowUp": {
+        "USB": 458834,
+        "evdev": 103,
+        "XKB": 111,
+        "Win": 57416,
+        "Mac": 126
+    },
+    "NumLock": {
+        "USB": 458835,
+        "evdev": 69,
+        "XKB": 77,
+        "Win": 57413,
+        "Mac": 71
+    },
+    "NumpadDivide": {
+        "USB": 458836,
+        "evdev": 98,
+        "XKB": 106,
+        "Win": 57397,
+        "Mac": 75
+    },
+    "NumpadMultiply": {
+        "USB": 458837,
+        "evdev": 55,
+        "XKB": 63,
+        "Win": 55,
+        "Mac": 67
+    },
+    "NumpadSubtract": {
+        "USB": 458838,
+        "evdev": 74,
+        "XKB": 82,
+        "Win": 74,
+        "Mac": 78
+    },
+    "NumpadAdd": {
+        "USB": 458839,
+        "evdev": 78,
+        "XKB": 86,
+        "Win": 78,
+        "Mac": 69
+    },
+    "NumpadEnter": {
+        "USB": 458840,
+        "evdev": 96,
+        "XKB": 104,
+        "Win": 57372,
+        "Mac": 76
+    },
+    "Numpad1": {
+        "USB": 458841,
+        "evdev": 79,
+        "XKB": 87,
+        "Win": 79,
+        "Mac": 83
+    },
+    "Numpad2": {
+        "USB": 458842,
+        "evdev": 80,
+        "XKB": 88,
+        "Win": 80,
+        "Mac": 84
+    },
+    "Numpad3": {
+        "USB": 458843,
+        "evdev": 81,
+        "XKB": 89,
+        "Win": 81,
+        "Mac": 85
+    },
+    "Numpad4": {
+        "USB": 458844,
+        "evdev": 75,
+        "XKB": 83,
+        "Win": 75,
+        "Mac": 86
+    },
+    "Numpad5": {
+        "USB": 458845,
+        "evdev": 76,
+        "XKB": 84,
+        "Win": 76,
+        "Mac": 87
+    },
+    "Numpad6": {
+        "USB": 458846,
+        "evdev": 77,
+        "XKB": 85,
+        "Win": 77,
+        "Mac": 88
+    },
+    "Numpad7": {
+        "USB": 458847,
+        "evdev": 71,
+        "XKB": 79,
+        "Win": 71,
+        "Mac": 89
+    },
+    "Numpad8": {
+        "USB": 458848,
+        "evdev": 72,
+        "XKB": 80,
+        "Win": 72,
+        "Mac": 91
+    },
+    "Numpad9": {
+        "USB": 458849,
+        "evdev": 73,
+        "XKB": 81,
+        "Win": 73,
+        "Mac": 92
+    },
+    "Numpad0": {
+        "USB": 458850,
+        "evdev": 82,
+        "XKB": 90,
+        "Win": 82,
+        "Mac": 82
+    },
+    "NumpadDecimal": {
+        "USB": 458851,
+        "evdev": 83,
+        "XKB": 91,
+        "Win": 83,
+        "Mac": 65
+    },
+    "IntlBackslash": {
+        "USB": 458852,
+        "evdev": 86,
+        "XKB": 94,
+        "Win": 86,
+        "Mac": 10
+    },
+    "ContextMenu": {
+        "USB": 458853,
+        "evdev": 127,
+        "XKB": 135,
+        "Win": 57437,
+        "Mac": 110
+    },
+    "Power": {
+        "USB": 458854,
+        "evdev": 116,
+        "XKB": 124,
+        "Win": 57438,
+        "Mac": 65535
+    },
+    "NumpadEqual": {
+        "USB": 458855,
+        "evdev": 117,
+        "XKB": 125,
+        "Win": 89,
+        "Mac": 81
+    },
+    "F13": {
+        "USB": 458856,
+        "evdev": 183,
+        "XKB": 191,
+        "Win": 100,
+        "Mac": 105
+    },
+    "F14": {
+        "USB": 458857,
+        "evdev": 184,
+        "XKB": 192,
+        "Win": 101,
+        "Mac": 107
+    },
+    "F15": {
+        "USB": 458858,
+        "evdev": 185,
+        "XKB": 193,
+        "Win": 102,
+        "Mac": 113
+    },
+    "F16": {
+        "USB": 458859,
+        "evdev": 186,
+        "XKB": 194,
+        "Win": 103,
+        "Mac": 106
+    },
+    "F17": {
+        "USB": 458860,
+        "evdev": 187,
+        "XKB": 195,
+        "Win": 104,
+        "Mac": 64
+    },
+    "F18": {
+        "USB": 458861,
+        "evdev": 188,
+        "XKB": 196,
+        "Win": 105,
+        "Mac": 79
+    },
+    "F19": {
+        "USB": 458862,
+        "evdev": 189,
+        "XKB": 197,
+        "Win": 106,
+        "Mac": 80
+    },
+    "F20": {
+        "USB": 458863,
+        "evdev": 190,
+        "XKB": 198,
+        "Win": 107,
+        "Mac": 90
+    },
+    "F21": {
+        "USB": 458864,
+        "evdev": 191,
+        "XKB": 199,
+        "Win": 108,
+        "Mac": 65535
+    },
+    "F22": {
+        "USB": 458865,
+        "evdev": 192,
+        "XKB": 200,
+        "Win": 109,
+        "Mac": 65535
+    },
+    "F23": {
+        "USB": 458866,
+        "evdev": 193,
+        "XKB": 201,
+        "Win": 110,
+        "Mac": 65535
+    },
+    "F24": {
+        "USB": 458867,
+        "evdev": 194,
+        "XKB": 202,
+        "Win": 118,
+        "Mac": 65535
+    },
+    "Open": {
+        "USB": 458868,
+        "evdev": 134,
+        "XKB": 142,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "Help": {
+        "USB": 458869,
+        "evdev": 138,
+        "XKB": 146,
+        "Win": 57403,
+        "Mac": 65535
+    },
+    "Select": {
+        "USB": 458871,
+        "evdev": 132,
+        "XKB": 140,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "Again": {
+        "USB": 458873,
+        "evdev": 129,
+        "XKB": 137,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "Undo": {
+        "USB": 458874,
+        "evdev": 131,
+        "XKB": 139,
+        "Win": 57352,
+        "Mac": 65535
+    },
+    "Cut": {
+        "USB": 458875,
+        "evdev": 137,
+        "XKB": 145,
+        "Win": 57367,
+        "Mac": 65535
+    },
+    "Copy": {
+        "USB": 458876,
+        "evdev": 133,
+        "XKB": 141,
+        "Win": 57368,
+        "Mac": 65535
+    },
+    "Paste": {
+        "USB": 458877,
+        "evdev": 135,
+        "XKB": 143,
+        "Win": 57354,
+        "Mac": 65535
+    },
+    "Find": {
+        "USB": 458878,
+        "evdev": 136,
+        "XKB": 144,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "AudioVolumeMute": {
+        "USB": 458879,
+        "evdev": 113,
+        "XKB": 121,
+        "Win": 57376,
+        "Mac": 74
+    },
+    "AudioVolumeUp": {
+        "USB": 458880,
+        "evdev": 115,
+        "XKB": 123,
+        "Win": 57392,
+        "Mac": 72
+    },
+    "AudioVolumeDown": {
+        "USB": 458881,
+        "evdev": 114,
+        "XKB": 122,
+        "Win": 57390,
+        "Mac": 73
+    },
+    "NumpadComma": {
+        "USB": 458885,
+        "evdev": 121,
+        "XKB": 129,
+        "Win": 126,
+        "Mac": 95
+    },
+    "IntlRo": {
+        "USB": 458887,
+        "evdev": 89,
+        "XKB": 97,
+        "Win": 115,
+        "Mac": 94
+    },
+    "KanaMode": {
+        "USB": 458888,
+        "evdev": 93,
+        "XKB": 101,
+        "Win": 112,
+        "Mac": 65535
+    },
+    "IntlYen": {
+        "USB": 458889,
+        "evdev": 124,
+        "XKB": 132,
+        "Win": 125,
+        "Mac": 93
+    },
+    "Convert": {
+        "USB": 458890,
+        "evdev": 92,
+        "XKB": 100,
+        "Win": 121,
+        "Mac": 65535
+    },
+    "NonConvert": {
+        "USB": 458891,
+        "evdev": 94,
+        "XKB": 102,
+        "Win": 123,
+        "Mac": 65535
+    },
+    "Lang1": {
+        "USB": 458896,
+        "evdev": 122,
+        "XKB": 130,
+        "Win": 114,
+        "Mac": 104
+    },
+    "Lang2": {
+        "USB": 458897,
+        "evdev": 123,
+        "XKB": 131,
+        "Win": 113,
+        "Mac": 102
+    },
+    "Lang3": {
+        "USB": 458898,
+        "evdev": 90,
+        "XKB": 98,
+        "Win": 120,
+        "Mac": 65535
+    },
+    "Lang4": {
+        "USB": 458899,
+        "evdev": 91,
+        "XKB": 99,
+        "Win": 119,
+        "Mac": 65535
+    },
+    "Lang5": {
+        "USB": 458900,
+        "evdev": 85,
+        "XKB": 93,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "Abort": {
+        "USB": 458907,
+        "evdev": 0,
+        "XKB": 0,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "Props": {
+        "USB": 458915,
+        "evdev": 0,
+        "XKB": 0,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "NumpadParenLeft": {
+        "USB": 458934,
+        "evdev": 179,
+        "XKB": 187,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "NumpadParenRight": {
+        "USB": 458935,
+        "evdev": 180,
+        "XKB": 188,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "NumpadBackspace": {
+        "USB": 458939,
+        "evdev": 0,
+        "XKB": 0,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "NumpadMemoryStore": {
+        "USB": 458960,
+        "evdev": 0,
+        "XKB": 0,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "NumpadMemoryRecall": {
+        "USB": 458961,
+        "evdev": 0,
+        "XKB": 0,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "NumpadMemoryClear": {
+        "USB": 458962,
+        "evdev": 0,
+        "XKB": 0,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "NumpadMemoryAdd": {
+        "USB": 458963,
+        "evdev": 0,
+        "XKB": 0,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "NumpadMemorySubtract": {
+        "USB": 458964,
+        "evdev": 0,
+        "XKB": 0,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "NumpadClear": {
+        "USB": 458968,
+        "evdev": 0,
+        "XKB": 0,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "NumpadClearEntry": {
+        "USB": 458969,
+        "evdev": 0,
+        "XKB": 0,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "ControlLeft": {
+        "USB": 458976,
+        "evdev": 29,
+        "XKB": 37,
+        "Win": 29,
+        "Mac": 59
+    },
+    "ShiftLeft": {
+        "USB": 458977,
+        "evdev": 42,
+        "XKB": 50,
+        "Win": 42,
+        "Mac": 56
+    },
+    "AltLeft": {
+        "USB": 458978,
+        "evdev": 56,
+        "XKB": 64,
+        "Win": 56,
+        "Mac": 58
+    },
+    "MetaLeft": {
+        "USB": 458979,
+        "evdev": 125,
+        "XKB": 133,
+        "Win": 57435,
+        "Mac": 55
+    },
+    "ControlRight": {
+        "USB": 458980,
+        "evdev": 97,
+        "XKB": 105,
+        "Win": 57373,
+        "Mac": 62
+    },
+    "ShiftRight": {
+        "USB": 458981,
+        "evdev": 54,
+        "XKB": 62,
+        "Win": 54,
+        "Mac": 60
+    },
+    "AltRight": {
+        "USB": 458982,
+        "evdev": 100,
+        "XKB": 108,
+        "Win": 57400,
+        "Mac": 61
+    },
+    "MetaRight": {
+        "USB": 458983,
+        "evdev": 126,
+        "XKB": 134,
+        "Win": 57436,
+        "Mac": 54
+    },
+    "BrightnessUp": {
+        "USB": 786543,
+        "evdev": 225,
+        "XKB": 233,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "BrightnessDown": {
+        "USB": 786544,
+        "evdev": 224,
+        "XKB": 232,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "MediaPlay": {
+        "USB": 786608,
+        "evdev": 207,
+        "XKB": 215,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "MediaPause": {
+        "USB": 786609,
+        "evdev": 201,
+        "XKB": 209,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "MediaRecord": {
+        "USB": 786610,
+        "evdev": 167,
+        "XKB": 175,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "MediaFastForward": {
+        "USB": 786611,
+        "evdev": 208,
+        "XKB": 216,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "MediaRewind": {
+        "USB": 786612,
+        "evdev": 168,
+        "XKB": 176,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "MediaTrackNext": {
+        "USB": 786613,
+        "evdev": 163,
+        "XKB": 171,
+        "Win": 57369,
+        "Mac": 65535
+    },
+    "MediaTrackPrevious": {
+        "USB": 786614,
+        "evdev": 165,
+        "XKB": 173,
+        "Win": 57360,
+        "Mac": 65535
+    },
+    "MediaStop": {
+        "USB": 786615,
+        "evdev": 166,
+        "XKB": 174,
+        "Win": 57380,
+        "Mac": 65535
+    },
+    "Eject": {
+        "USB": 786616,
+        "evdev": 161,
+        "XKB": 169,
+        "Win": 57388,
+        "Mac": 65535
+    },
+    "MediaPlayPause": {
+        "USB": 786637,
+        "evdev": 164,
+        "XKB": 172,
+        "Win": 57378,
+        "Mac": 65535
+    },
+    "MediaSelect": {
+        "USB": 786819,
+        "evdev": 171,
+        "XKB": 179,
+        "Win": 57453,
+        "Mac": 65535
+    },
+    "LaunchMail": {
+        "USB": 786826,
+        "evdev": 155,
+        "XKB": 163,
+        "Win": 57452,
+        "Mac": 65535
+    },
+    "LaunchApp2": {
+        "USB": 786834,
+        "evdev": 140,
+        "XKB": 148,
+        "Win": 57377,
+        "Mac": 65535
+    },
+    "LaunchApp1": {
+        "USB": 786836,
+        "evdev": 144,
+        "XKB": 152,
+        "Win": 57451,
+        "Mac": 65535
+    },
+    "LaunchControlPanel": {
+        "USB": 786847,
+        "evdev": 579,
+        "XKB": 587,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "SelectTask": {
+        "USB": 786850,
+        "evdev": 580,
+        "XKB": 588,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "LaunchScreenSaver": {
+        "USB": 786865,
+        "evdev": 581,
+        "XKB": 589,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "LaunchAssistant": {
+        "USB": 786891,
+        "evdev": 583,
+        "XKB": 591,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "BrowserSearch": {
+        "USB": 786977,
+        "evdev": 217,
+        "XKB": 225,
+        "Win": 57445,
+        "Mac": 65535
+    },
+    "BrowserHome": {
+        "USB": 786979,
+        "evdev": 172,
+        "XKB": 180,
+        "Win": 57394,
+        "Mac": 65535
+    },
+    "BrowserBack": {
+        "USB": 786980,
+        "evdev": 158,
+        "XKB": 166,
+        "Win": 57450,
+        "Mac": 65535
+    },
+    "BrowserForward": {
+        "USB": 786981,
+        "evdev": 159,
+        "XKB": 167,
+        "Win": 57449,
+        "Mac": 65535
+    },
+    "BrowserStop": {
+        "USB": 786982,
+        "evdev": 128,
+        "XKB": 136,
+        "Win": 57448,
+        "Mac": 65535
+    },
+    "BrowserRefresh": {
+        "USB": 786983,
+        "evdev": 173,
+        "XKB": 181,
+        "Win": 57447,
+        "Mac": 65535
+    },
+    "BrowserFavorites": {
+        "USB": 786986,
+        "evdev": 156,
+        "XKB": 164,
+        "Win": 57446,
+        "Mac": 65535
+    },
+    "ZoomToggle": {
+        "USB": 786994,
+        "evdev": 372,
+        "XKB": 380,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "MailReply": {
+        "USB": 787081,
+        "evdev": 232,
+        "XKB": 240,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "MailForward": {
+        "USB": 787083,
+        "evdev": 233,
+        "XKB": 241,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "MailSend": {
+        "USB": 787084,
+        "evdev": 231,
+        "XKB": 239,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "KeyboardLayoutSelect": {
+        "USB": 787101,
+        "evdev": 584,
+        "XKB": 592,
+        "Win": 0,
+        "Mac": 65535
+    },
+    "ShowAllWindows": {
+        "USB": 787103,
+        "evdev": 120,
+        "XKB": 128,
+        "Win": 0,
+        "Mac": 65535
+    }
+}
