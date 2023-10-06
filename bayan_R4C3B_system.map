@@ -1,0 +1,91 @@
+FreePiano 2.1
+
+GroupCount	1
+Group	Set	0
+KeySignature	Set	0
+Velocity	In_0	Set	80
+Velocity	In_1	Set	100
+Sustain	Out_0	Set	127
+Keydown	Esc	Sustain	In_0	Set	0
+Keydown	Esc	Sustain	In_1	Set	0
+Keyup	Esc	Sustain	In_0	Set	127
+Keyup	Esc	Sustain	In_1	Set	127
+Keydown	F1	Group	Inc	1
+Keydown	F2	Group	Dec	1
+Keydown	F3	KeySignature	Inc	1
+Keydown	F4	KeySignature	Dec	1
+Keydown	F5	Octave	In_0	Inc	1
+Keydown	F6	Octave	In_0	Dec	1
+Keydown	F7	Octave	In_1	Inc	1
+Keydown	F8	Octave	In_1	Dec	1
+Keydown	F9	Velocity	In_0	Inc	1
+Keydown	F10	Velocity	In_0	Dec	1
+Keydown	F11	Velocity	In_1	Inc	1
+Keydown	F12	Velocity	In_1	Dec	1
+Keydown 1         Note       In_0      C2 
+Keydown Q         Note       In_0      C#2
+Keydown A         Note       In_0      D2 
+Keydown Z         Note       In_0      D#2
+Keydown 2         Note       In_0      E2 
+Keydown W         Note       In_0      F2 
+Keydown S         Note       In_0      F#2
+Keydown X         Note       In_0      G2 
+Keydown 3         Note       In_0      G#2
+Keydown E         Note       In_0      A2 
+Keydown D         Note       In_0      A#2
+Keydown C         Note       In_0      B2 
+Keydown 4         Note       In_0      C3 
+Keydown R         Note       In_0      C#3
+Keydown F         Note       In_0      D3 
+Keydown V         Note       In_0      D#3
+Keydown 5         Note       In_0      E3 
+Keydown T         Note       In_0      F3 
+Keydown G         Note       In_0      F#3
+Keydown B         Note       In_0      G3 
+Keydown 6         Note       In_0      G#3
+Keydown Y         Note       In_0      A3 
+Keydown H         Note       In_0      A#3
+Keydown N         Note       In_0      B3 
+Keydown 7         Note       In_0      C4 
+Keydown U         Note       In_0      C#4
+Keydown J         Note       In_0      D4 
+Keydown M         Note       In_0      D#4
+Keydown 8         Note       In_0      E4 
+Keydown I         Note       In_0      F4 
+Keydown K         Note       In_0      F#4
+Keydown ,         Note       In_0      G4 
+Keydown 9         Note       In_0      G#4
+Keydown O         Note       In_0      A4 
+Keydown L         Note       In_0      A#4
+Keydown .         Note       In_0      B4 
+Keydown 0         Note       In_1      C5 
+Keydown P         Note       In_1      C#5
+Keydown ;         Note       In_1      D5 
+Keydown /         Note       In_1      D#5
+Keydown -         Note       In_1      E5 
+Keydown [         Note       In_1      F5 
+Keydown '         Note       In_1      F#5
+Keydown RShift    Note       In_1      G5
+Keydown =         Note       In_1      G#5
+Keydown ]         Note       In_1      A5 
+Keydown Enter     Note       In_1      A#5
+Keydown Up        Note       In_1      B5
+Keydown Backspace Note       In_1      C6 
+Keydown \         Note       In_1      C#6
+Keydown PgUp      Note       In_1      D6
+Keydown PgDn      Note       In_1      D#6
+Keydown NumLock   Note       In_1      E6
+Keydown Num7      Note       In_1      F6
+Keydown Num4      Note       In_1      F#6
+Keydown Num1      Note       In_1      G6
+Keydown Num/      Note       In_1      G#6
+Keydown Num8      Note       In_1      A6
+Keydown Num5      Note       In_1      A#6
+Keydown Num2      Note       In_1      B6
+Keydown Num*      Note       In_1      C7
+Keydown Num9      Note       In_1      C#7
+Keydown Num6      Note       In_1      D7
+Keydown Num3      Note       In_1      D#7
+Keydown Num-      Note       In_1      E7
+Keydown Num+      Note       In_1      F7
+Keydown NumEnter  Note       In_1      F#7
