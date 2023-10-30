@@ -7,8 +7,8 @@ A bayan-like virtual midi keyboard which turns your computer keyboard into a 63-
 git clone https://github.com/chaihahaha/virtual-bayan-midi-keyboard
 cd virtual-bayan-midi-keyboard
 pip install -r requirements.txt
-python terminal_piano.py -d config.json -g # If you want to generate you key map
-python terminal_piano.py -c compact_bayan_config.json
+python terminal_piano.py -d config.json -g # If you want to generate your own key map
+python terminal_piano.py -c config.json   # If you want to play with config.json
 ```
 
 Then you can use your keyboard to play a bayan layout piano.

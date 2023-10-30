@@ -33,6 +33,7 @@ def create_play_callback(config):
 
 def kbevent_to_midimsg(config, event, existing_onmsg_list):
     key_name = f"{event.scan_code}-{event.is_keypad}"
+    print(event.name, end=' ', flush=True)
     midimsg = None
     if key_name in config['key_midi_map']:
         midicc = config['key_midi_map'][key_name]
@@ -47,9 +48,6 @@ def kbevent_to_midimsg(config, event, existing_onmsg_list):
             midimsg = msg
             existing_onmsg_list[midicc] = None
             return midimsg
-    if key_name == '1-False':
-        # if Esc is pressed, exit program
-        sys.exit()
     return midimsg
 
 def set_midi_output(config=None):
@@ -81,11 +79,10 @@ def run():
     args = parser.parse_args()
     if args.generate_config:
         keyboard.hook(create_config_generator_callback(args.dump_config_path), suppress=True)
-        keyboard.wait()
     elif args.load_config_path:
         config = read_config(args.load_config_path)
         keyboard.hook(create_play_callback(config), suppress=config['supress'])
-        keyboard.wait()
+    keyboard.wait('esc')
 
 if __name__ == '__main__':
     run()
