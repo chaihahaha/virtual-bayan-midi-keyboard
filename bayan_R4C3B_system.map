@@ -6,10 +6,10 @@ KeySignature	Set	0
 Velocity	In_0	Set	80
 Velocity	In_1	Set	100
 Sustain	Out_0	Set	127
-Keydown	Esc	Sustain	In_0	Set	0
-Keydown	Esc	Sustain	In_1	Set	0
-Keyup	Esc	Sustain	In_0	Set	127
-Keyup	Esc	Sustain	In_1	Set	127
+Keydown	Space	Sustain	In_0	Set	0
+Keydown	Space	Sustain	In_1	Set	0
+Keyup	Space	Sustain	In_0	Set	127
+Keyup	Space	Sustain	In_1	Set	127
 Keydown	F1	Group	Inc	1
 Keydown	F2	Group	Dec	1
 Keydown	F3	KeySignature	Inc	1
